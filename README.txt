@@ -4,4 +4,8 @@ haring remoteely is fun ans ease
 feature2
 =======
 feature1
+<<<<<<< HEAD
+>>>>>>> feature1
+=======
+feature1 changes
 >>>>>>> feature1
